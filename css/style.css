@@ -206,7 +206,7 @@ nav i.fa-bars {
 /* start-landing */
 
 #landing {
-    background-image: url(/imgs/imgi_2_slider_1.jpg);
+    background-image: url(../imgs/imgi_2_slider_1.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -383,7 +383,7 @@ nav i.fa-bars {
 
 #case {
     margin: 50px 0;
-    background-image: url(/imgs/imgi_13_case.jpg);
+    background-image: url(../imgs/imgi_13_case.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -610,7 +610,7 @@ nav i.fa-bars {
 
 #performance {
     margin: 50px 0;
-    background-image: url(/imgs/imgi_14_case21.jpg);
+    background-image: url(../imgs/imgi_14_case21.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -773,7 +773,7 @@ nav i.fa-bars {
 
 #managing {
     margin: 50px 0;
-    background-image: url(/imgs/imgi_15_revenue.jpg);
+    background-image: url(../imgs/imgi_15_revenue.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
